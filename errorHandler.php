@@ -1,5 +1,8 @@
 <?php
 namespace system;
+/**
+ * Handles all errors and exceptions.
+ */
 class errorHandler extends \Exception{
     /**
      * Registers the error and exception handlers

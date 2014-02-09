@@ -1,4 +1,7 @@
 <?php
+/**
+*Handles automation of class loading
+*/
 class autoLoader{
     /**
      * Stores all first level namespaces

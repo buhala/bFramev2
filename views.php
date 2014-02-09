@@ -1,5 +1,8 @@
 <?php
 namespace system;
+/**
+ * Takes care of the views
+ */
 class views{
     /**
      * 

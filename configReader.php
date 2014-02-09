@@ -1,7 +1,9 @@
 <?php
 
 namespace system;
-
+/**
+*Handles reading of user-based configurations.
+*/
 class configReader {
     /**
      *

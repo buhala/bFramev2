@@ -1,5 +1,8 @@
 <?php
 namespace system;
+/**
+ * Routes requests.
+ */
 class router{
     /**
      * 

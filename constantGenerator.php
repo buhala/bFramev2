@@ -1,5 +1,8 @@
 <?php
 namespace system;
+/**
+*Generates some constants necessary for system code
+*/
 class constantGenerator {
     /**
      * 

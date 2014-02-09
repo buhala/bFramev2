@@ -1,7 +1,9 @@
 <?php
 
 namespace system;
-
+/**
+*Handles the lowest level of loading
+*/
 class core {
     /**
      * 
